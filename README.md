@@ -9,3 +9,4 @@
 </body>
 </html>
 added index.html
+style.css
